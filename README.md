@@ -9,3 +9,4 @@ Here we test truck image download from internet.
 Then we preprocess the image as in model and its result shown here
 
 <img src = "https://raw.githubusercontent.com/TiwariLaxuu/Image-Classification/master/Images/image2.png">
+Then our output is <src img = "https://raw.githubusercontent.com/TiwariLaxuu/Image-Classification/master/Images/image3.png">
