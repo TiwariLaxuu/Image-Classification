@@ -9,10 +9,12 @@ Here we test truck image download from internet.
 Then we preprocess the image as in model and its result shown here
 
 <img src = "https://raw.githubusercontent.com/TiwariLaxuu/Image-Classification/master/Images/image2.png">
-Then our output is 
+Then our output is Truck
 
 <src img = "https://raw.githubusercontent.com/TiwariLaxuu/Image-Classification/master/Images/image3.png">
            
            
 Hurray! We classify image correctly. 
            Also we classify all output result.
+           
+<img src = "https://raw.githubusercontent.com/TiwariLaxuu/Image-Classification/master/Images/imageclassify.png">
