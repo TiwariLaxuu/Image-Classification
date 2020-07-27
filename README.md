@@ -10,6 +10,9 @@ Then we preprocess the image as in model and its result shown here
 
 <img src = "https://raw.githubusercontent.com/TiwariLaxuu/Image-Classification/master/Images/image2.png">
 Then our output is 
+
 <src img = "https://raw.githubusercontent.com/TiwariLaxuu/Image-Classification/master/Images/image3.png">
+           
+           
 Hurray! We classify image correctly. 
            Also we classify all output result.
